@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20px" height="20px">
+  <title>Reset</title>
+  <style>
+    * { stroke: #777; stroke-width: 1; fill: none; }
+  </style>
   <g>
-    <circle cx="10" cy="10" r="9" stroke-width="1" stroke="#8d8d8d" fill="none"/>
-    <line x1="5" y1="5" x2="15" y2="15" stroke="#8d8d8d"/>
-    <line x1="5" y1="15" x2="15" y2="5" stroke="#8d8d8d"/>
+    <circle cx="10" cy="10" r="9"/>
+    <line x1="5" y1="5" x2="15" y2="15"/>
+    <line x1="5" y1="15" x2="15" y2="5"/>
   </g>
 </svg>
